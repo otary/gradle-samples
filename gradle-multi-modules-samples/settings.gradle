@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-multi-modules-samples'
+
+include 'gradle-app-core'
+include 'gradle-app-01'
